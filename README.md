@@ -30,24 +30,5 @@ DailyRewards est un plugin Minecraft 1.20 qui permet aux joueurs de réclamer un
 
 
 # Config.yml : 
+![image](https://github.com/user-attachments/assets/0f23134f-c1f4-4f50-9b9d-04036850a0f5)
 
-(cooldown entre chaque récompense en secondes par exemple ici 15s)
-reward-delay: 15
-
-(récompense à définir)
-(Pour ajouter une récompense utiliser : 
-- item ; - commands)
-
-rewards:
-  - item: STONE
-    amount: 19
-    chance: 20
-
-  - item: IRON_INGOT
-    amount: 12
-    chance: 30
-
-  - item: GOLD_INGOT
-    amount: 1
-    commands: eco give {player} 50000
-    chance: 50
