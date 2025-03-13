@@ -27,3 +27,4 @@ DailyRewards est un plugin Minecraft 1.20 qui permet aux joueurs de réclamer un
 
 - /dailyrewards reset {player} : Pour reset le temps d'attente d'un joueur
 
+![Azuria-LogoVide](https://github.com/user-attachments/assets/a3a83f8f-e226-424a-8677-663dadf23c27)
