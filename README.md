@@ -28,3 +28,26 @@ DailyRewards est un plugin Minecraft 1.20 qui permet aux joueurs de réclamer un
 - /dailyrewards reset {player} : Pour reset le temps d'attente d'un joueur
 
 
+
+# Config.yml : 
+
+(cooldown entre chaque récompense en secondes par exemple ici 15s)
+reward-delay: 15
+
+(récompense à définir)
+(Pour ajouter une récompense utiliser : 
+- item ; - commands)
+
+rewards:
+  - item: STONE
+    amount: 19
+    chance: 20
+
+  - item: IRON_INGOT
+    amount: 12
+    chance: 30
+
+  - item: GOLD_INGOT
+    amount: 1
+    commands: eco give {player} 50000
+    chance: 50
