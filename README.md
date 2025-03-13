@@ -39,7 +39,7 @@ Si vous souhaitez donner simplement un items en récompense :
 
 Pour definir le joueur utilisé : {player}
 Si vous voulez simplement utiliser une commande vous pouvez utiliser :
- - commands : eco give {player} 500 (votre commande)
+ - commands : eco give {player} 500 (votre commande)\n
   chance : 30 (chance d'obtenir la récompense)
 
 Pour definir le joueur utilisé : {player}
