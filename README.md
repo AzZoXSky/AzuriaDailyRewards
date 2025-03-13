@@ -8,7 +8,7 @@ DailyRewards est un plugin Minecraft 1.20 qui permet aux joueurs de réclamer un
 - Suivi du temps entre chaque récompense
 
 
-##Commandes utils 
+## Commandes utils 
 
 ### Joueur
 
